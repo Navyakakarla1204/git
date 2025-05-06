@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1746562921,,"wq"
+|2,0,1746565114,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,51 @@
 # Registers:
 
 # File marks:
-'0  2  16  ~/main.file
-|4,48,2,16,1746562921,"~/main.file"
-'1  2  0  ~/gitpro/main.file
-|4,49,2,0,1746561664,"~/gitpro/main.file"
+'0  2  11  ~/laptop-page.html
+|4,48,2,11,1746565114,"~/laptop-page.html"
+'1  2  16  ~/main.file
+|4,49,2,16,1746562921,"~/main.file"
+'2  2  0  ~/gitpro/main.file
+|4,50,2,0,1746561664,"~/gitpro/main.file"
 
 # Jumplist (newest first):
+-'  2  11  ~/laptop-page.html
+|4,39,2,11,1746565114,"~/laptop-page.html"
+-'  1  0  ~/laptop-page.html
+|4,39,1,0,1746565081,"~/laptop-page.html"
 -'  2  16  ~/main.file
 |4,39,2,16,1746562921,"~/main.file"
+-'  2  16  ~/main.file
+|4,39,2,16,1746562921,"~/main.file"
+-'  1  0  ~/main.file
+|4,39,1,0,1746562893,"~/main.file"
 -'  1  0  ~/main.file
 |4,39,1,0,1746562893,"~/main.file"
 -'  2  0  ~/gitpro/main.file
 |4,39,2,0,1746561664,"~/gitpro/main.file"
 -'  2  0  ~/gitpro/main.file
 |4,39,2,0,1746561664,"~/gitpro/main.file"
+-'  2  0  ~/gitpro/main.file
+|4,39,2,0,1746561664,"~/gitpro/main.file"
+-'  2  0  ~/gitpro/main.file
+|4,39,2,0,1746561664,"~/gitpro/main.file"
+-'  1  0  ~/gitpro/main.file
+|4,39,1,0,1746561640,"~/gitpro/main.file"
+-'  1  0  ~/gitpro/main.file
+|4,39,1,0,1746561640,"~/gitpro/main.file"
 -'  1  0  ~/gitpro/main.file
 |4,39,1,0,1746561640,"~/gitpro/main.file"
 -'  1  0  ~/gitpro/main.file
 |4,39,1,0,1746561640,"~/gitpro/main.file"
 
 # History of marks within files (newest to oldest):
+
+> ~/laptop-page.html
+	*	1746565112	0
+	"	2	11
+	^	2	12
+	.	2	11
+	+	2	11
 
 > ~/main.file
 	*	1746562918	0
